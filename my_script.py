@@ -7,3 +7,4 @@ def calculate_sum(a, b):
 
 # this is a new conment for diffing
 greet("World")
+print("nothing")
